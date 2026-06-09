@@ -22,7 +22,7 @@ The application repository is private. Happy to grant read access for diligence 
 
 ## Stack
 
-`Supabase` · `Stripe Connect + Tax` · `Twilio` · `Anthropic Claude` · `Azure OpenAI MAI-Transcribe-1.5)` · `Cloudflare Enterprise` · `React + TypeScript`
+`Supabase` · `Stripe Connect + Tax` · `Twilio` · `Anthropic Claude` · `Azure OpenAI MAI-Transcribe-1.5` · `Cloudflare Enterprise` · `React + TypeScript`
 
 ## Contact
 
